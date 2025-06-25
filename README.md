@@ -55,6 +55,10 @@ This project was conducted in collaboration with an operational team in a real b
 
 ---
 
+## [The Python Notebook](https://colab.research.google.com/drive/18OSQz5Fyk6_z0eKrAjBLeRY3MUhHhbAD?usp=sharing) 
+
+---
+
 ## Key Findings (Sample)
 
 Here are a few insights from the modeling and analysis:
@@ -76,11 +80,10 @@ This project illustrates a scalable approach to anomaly detection in time-series
 
 | File/Directory           | Description                              |
 |--------------------------|------------------------------------------|
-| `notebook.ipynb`         | Main Jupyter notebook                    |
-| `utils.py`               | Helper functions (e.g., for redaction)  |
-| `.env`                   | Local variables (excluded)              |
-| `.gitignore`             | Prevents committing sensitive files     |
-| `detected_anomalies.csv` | Sample output (anonymized)              |
+| `utils.py`               | Helper functions (e.g., for redaction)   |
+| `plot_utils.py`          | Contains functions for generating time variation plots and interactive time series visualizations.|
+| `thresholding.py`        | 	Implements an adaptive thresholding algorithm to detect anomalies in time series data.|
+| `timer.py`               | Provides a context-based timer utility for measuring code execution time.              |
 | `README.md`              | You're here!                            |
 
 ---
