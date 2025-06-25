@@ -6,10 +6,20 @@ A demonstration of time-series anomaly detection and predictive modeling built d
 
 ---
 
+## About Connected Energy
+
+<p>The business was founded to approach anenergy, transport and environmental problem creatively driven by supporting the circular economy. As
+the world strives towards net zero, our batteryenergystorage systems solve two majorenergychallenges: reliable storage for
+renewableenergyand repurposing of electric vehicle batteries. Connected Energy is on a mission to help the world embrace sustainable energy solutions that
+harnesses the value embedded in second life electric vehicle batteries. Based in the UK, but operating internationally, to provide
+battery energy storage systems.</p>
+
 ## Problem Statement
 
-_Add a short problem statement here – what the business challenge was, and why it mattered._  
-_E.g., "Identify early signs of thermal risk or system overheating in battery infrastructure using unsupervised and supervised anomaly detection techniques."_  
+<p>Connected Energy maintains battery energy storage systems at various locations around the UK and
+Europe. These systems are continually monitored for performance and maintenance reasons. How can
+connected energy make better use of the data collected to identify, predict and report issues to clients?</p>
+ 
 
 ---
 
@@ -22,7 +32,7 @@ This notebook-based project explores an end-to-end anomaly detection framework i
 - **Predictive modeling using Random Forests**
 - **Temporal anomaly visualization and probability thresholding**
 
-The pipeline follows a robust approach to detect operational anomalies and model near-term risks, demonstrating practical ML under real-world constraints such as limited labels, noisy data, and time limitations.
+The pipeline follows an approach to detect operational anomalies and model near-term risks, demonstrating practical ML under real-world constraints such as limited labels, noisy data, and time limitations.
 
 ---
 
@@ -83,10 +93,8 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## Contributors
 
-> _Note: Full contributor list to be added_
-
-- _Your Name Here_ — Implementation, custom modeling, post-analysis author
-- _[Add Original Team Members Here]_ — Original idea, data access, domain guidance
+- [Samraat Jain](https://github.com/SamraatJain9) — Implementation, custom modeling, post-analysis author
+- Paul Goodman (paul.goodman@newcastle.ac.uk) — Original analysis, data access, domain guidance
 
 ---
 
