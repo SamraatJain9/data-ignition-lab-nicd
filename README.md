@@ -74,20 +74,14 @@ This project illustrates a scalable approach to anomaly detection in time-series
 
 ## Repository Structure
 
-data-ignition-anomaly-lab/
-├── notebook.ipynb # Main Jupyter notebook
-├── utils.py # Helper functions (e.g., for redaction)
-├── .env # Local variables (excluded)
-├── .gitignore # Prevents committing sensitive files
-├── detected_anomalies.csv # Sample output (anonymized)
-└── README.md # You're here!
-
-
----
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
+| File/Directory           | Description                              |
+|--------------------------|------------------------------------------|
+| `notebook.ipynb`         | Main Jupyter notebook                    |
+| `utils.py`               | Helper functions (e.g., for redaction)  |
+| `.env`                   | Local variables (excluded)              |
+| `.gitignore`             | Prevents committing sensitive files     |
+| `detected_anomalies.csv` | Sample output (anonymized)              |
+| `README.md`              | You're here!                            |
 
 ---
 
