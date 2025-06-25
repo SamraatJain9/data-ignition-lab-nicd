@@ -55,7 +55,10 @@ This project was conducted in collaboration with an operational team in a real b
 
 ---
 
-## [The Python Notebook](https://colab.research.google.com/drive/18OSQz5Fyk6_z0eKrAjBLeRY3MUhHhbAD?usp=sharing) 
+### View the Notebook
+
+You can view the notebook here: [Open in Google Colab](https://colab.research.google.com/drive/18OSQz5Fyk6_z0eKrAjBLeRY3MUhHhbAD?usp=sharing)
+
 
 ---
 
