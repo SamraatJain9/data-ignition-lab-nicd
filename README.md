@@ -1,4 +1,4 @@
-# Data Ignition Anomaly Lab
+# Data Ignition Lab - Anomaly Detection
 
 A demonstration of time-series anomaly detection and predictive modeling built during the NICD Data Innovation Bootcamp (2025) by Group 8 – **Data Ignition Lab**. This repository showcases a prototype pipeline for identifying and predicting anomalies in operational temperature data from real-world sensor systems.
 
@@ -19,7 +19,12 @@ battery energy storage systems.</p>
 <p>Connected Energy maintains battery energy storage systems at various locations around the UK and
 Europe. These systems are continually monitored for performance and maintenance reasons. How can
 connected energy make better use of the data collected to identify, predict and report issues to clients?</p>
- 
+
+---
+
+### View the Notebook
+
+You can view the notebook here: [Open in Google Colab](https://colab.research.google.com/drive/18OSQz5Fyk6_z0eKrAjBLeRY3MUhHhbAD?usp=sharing)
 
 ---
 
@@ -52,13 +57,6 @@ Since this work was based on confidential and proprietary business data:
 This project was conducted in collaboration with an operational team in a real business setting. To respect NDAs, protect customer confidentiality, and align with ethical data practices, only a sanitized and partial version of the analysis pipeline is demonstrated.
 
 > This ensures the work can be **shared publicly as a portfolio project** without disclosing sensitive operational knowledge.
-
----
-
-### View the Notebook
-
-You can view the notebook here: [Open in Google Colab](https://colab.research.google.com/drive/18OSQz5Fyk6_z0eKrAjBLeRY3MUhHhbAD?usp=sharing)
-
 
 ---
 
