@@ -98,7 +98,7 @@ This project illustrates a scalable approach to anomaly detection in time-series
 
 ## Disclaimer
 
-This repository includes code and ideas originally developed as part of a collaborative project during the NICD Data Innovation Bootcamp. While the implementation, documentation, and enhancements presented here were authored by me, **much of the foundational design, domain knowledge, and data access was made possible by contributions from other team members and stakeholders**.
+This repository includes code and ideas originally developed as part of a collaborative project during the NICD Data Innovation Bootcamp. While the implementation, documentation, and enhancements presented here were authored by me, **much of the foundational design, domain knowledge, and data access was made possible by contributions from other members from my team and stakeholders**.
 
 Please treat this repository as a **demonstration of technical capability** and **not as a plug-and-play solution**.
 
